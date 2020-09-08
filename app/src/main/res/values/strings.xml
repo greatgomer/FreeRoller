@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Freeroller</string>
+
+<!--    Navigation bar-->
+    <string name="map">Карта</string>
+    <string name="trains">Тренировки</string>
 </resources>
