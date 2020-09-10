@@ -1,10 +1,11 @@
-package com.example.freeroller
+package com.example.freeroller.fragments.trains
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
+import com.example.freeroller.R
 
 class TrainsFragment : Fragment() {
 
